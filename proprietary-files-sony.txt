@@ -37,7 +37,7 @@ etc/firmware/dxhdcp2.b00
 etc/firmware/dxhdcp2.b01
 etc/firmware/dxhdcp2.b02
 etc/firmware/dxhdcp2.b03
-etc/firmware/dxhdcp2.flist
+etc/firmware/dxhdcp2.flist //abcd
 etc/firmware/dxhdcp2.mdt
 
 # Lights
